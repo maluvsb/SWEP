@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+        <head>
+        <title>Alimentos Típicos</title>
+        </head>
+
+        <body>
+         <form action="">
+          <fieldset>
+            <div>
+                <input type="radio" id="peixe" name="alimento" value="peixe" required>
+                <label for="peixe">Peixe</label>
+                <input type="farinha" id="peixe" name="alimento" value="farinha" required>
+                <label for="farinha">Farinha</label>
+                <input type="radio" id="açaí" name="alimento" value="açaí" required>
+                <label for="açai">Açaí</label>
+                <input type="radio" id="arroz" name="alimento" value="arroz" required>
+                <label for="arroz">Arroz</label>
+                <input type="radio" id="tucupi" name="alimento" value="tucupi" required>
+                <label for="tucupi">Tucupi</label>
+                <input type="radio" id="feijão" name="alimento" value="feijão" required>
+                <label for="Feijão">Feijão</label>
+                <input type="radio" id="batata_doce" name="alimento" value="batata_doce" required>
+                <label for="batata_doce">Batata Doce</label>
+                <input type="radio" id="cafe" name="alimento" value="cafe" required>
+                <label for="cafe">Café</label>
+                <input type="radio" id="manteiga" name="alimento" value="manteiga" required>
+                <label for="manteiga">Manteiga</label>
+                <input type="radio" id="macaxeira" name="alimento" value="macaxeira" required>
+                <label for="macaxeira">Macaxeira</label>
+                <input type="radio" id="hortalicas" name="alimento" value="hortalicas" required>
+                <label for="hortalicas">Hortaliças</label>
+                <input type="radio" id="inhame" name="alimento" value="inhame" required>
+                <label for="inhame">Inhame</label>
+                <input type="radio" id="frutas" name="alimento" value="frutas" required>
+                <label for="frutas">Frutas</label>
+                <input type="radio" id="farinha_de_mandioca" name="alimento" value="farinha_de_mandioca" required>
+                <label for="farinha_de_mandioca">Farinha de Mandioca</label>
+                <input type="radio" id="oleo" name="alimento" value="oleo" required>
+                <label for="oleo">Óleo</label>
+                <input type="radio" id="acucar" name="alimento" value="acucar" required>
+                <label for="acucar">Açúcar</label>
+                <input type="radio" id="queijo" name="alimento" value="queijo" required>
+                <label for="queijo">Queijo</label>
+                <input type="radio" id="sal" name="alimento" value="sal" required>
+                <label for="sal">Sal</label>
+                
+          </fieldset>
+         </form>   
+            </div>
+
+        </body>
+</html>
